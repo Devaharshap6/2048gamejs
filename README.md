@@ -9,6 +9,5 @@ This repository hosts a simple implementation of the classic 2048 game in JavaSc
 - Endless hours of fun!
 
 **How to Play:**
-1. Clone the repository.
-2. Open index.html in your browser.
-3. Use arrow keys to move tiles and combine numbers.
+1. Open index.html in your browser.
+2. Use arrow keys to move tiles and combine numbers.
